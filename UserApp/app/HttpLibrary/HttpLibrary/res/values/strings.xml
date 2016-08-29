@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  -->
+    <string name="error_code">404!</string>
+    <string name="something_wrong">Looks like something\'s gone wrong!</string>
+    <string name="connection_error">Error in connection! Please try later</string>
+    <string name="http_error">Connection Error</string>
+    <string name="try_later">Please try later</string>
+    <string name="check_your_connection">Please check your connection</string>
+    <string name="authentication_error">Authentication Error</string>
+    <string name="verify_credentials">Please verify credentials</string>
+    <string name="server_error">Server Error</string>
+    <string name="parse_error">Connection Error</string>
+    <string name="server_unreachable">Server unreachable. Please try later.</string>
+    <string name="no_network">Connection error! Please check your Internet connection.</string>
+
+</resources>
