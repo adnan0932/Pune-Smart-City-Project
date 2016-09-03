@@ -15,5 +15,5 @@ Database:­MySQL,Google Cloud Datastore
 
 Server Platform:­ Apache Tomcat server on XAMPP.
 
-Role:­Lead Developer for Android
+
 
