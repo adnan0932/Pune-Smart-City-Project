@@ -1,0 +1,1 @@
+this is a smart city application both for web and smart phone.
